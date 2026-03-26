@@ -1,24 +1,24 @@
-# 🚀 Automated CI/CD Pipeline using Jenkins on AWS EC2
+# 🔗 Automated CI/CD Pipeline using Jenkins on AWS EC2
 
-## 📌 Project Overview
+## 🔗 Project Overview
 This project demonstrates a fully automated CI/CD pipeline that eliminates manual deployment by automatically building and deploying code changes to a live web server.
 
 ---
 
-## 🎯 Objective
+## 🔗 Objective
 - Automate application deployment
 - Reduce manual errors
 - Enable faster and reliable releases
 
 ---
 
-## 🏗️ Architecture
+## 🔗 Architecture
 
 Developer → GitHub → Jenkins → AWS EC2 → Live Application
 
 ---
 
-## ⚙️ Tech Stack
+## 🔗 Tech Stack
 
 - GitHub (Version Control)
 - Jenkins (CI/CD Tool)
@@ -29,7 +29,7 @@ Developer → GitHub → Jenkins → AWS EC2 → Live Application
 
 ---
 
-## 🔧 Implementation Steps
+## 🔗 Implementation Steps
 
 1. Created a GitHub repository (`jenkins`)
 2. Launched an AWS EC2 instance (Linux)
@@ -44,7 +44,7 @@ Developer → GitHub → Jenkins → AWS EC2 → Live Application
 
 ---
 
-## 🔄 Workflow
+## 🔗 Workflow
 
 1. Developer pushes code to GitHub  
 2. GitHub triggers Jenkins via webhook  
@@ -54,7 +54,7 @@ Developer → GitHub → Jenkins → AWS EC2 → Live Application
 
 ---
 
-## 📈 Key Features
+## 🔗 Key Features
 
 ✔️ Fully automated deployment  
 ✔️ Real-time updates  
@@ -63,7 +63,7 @@ Developer → GitHub → Jenkins → AWS EC2 → Live Application
 
 ---
 
-## 🌐 Live Output
+## 🔗 Live Output
 
 Application deployed on AWS EC2 Web Server
 
